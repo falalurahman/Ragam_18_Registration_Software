@@ -1,0 +1,1 @@
+[22-Mar-2018 18:23:02 America/Chicago] PHP Fatal error:  Call to a member function bind_param() on boolean in /home2/nitcfest/public_html/ragam.org.in/2018/RegistrationSoftware/RagamRegistration/MainRegistration/php/finalPayment.php on line 175

@@ -1,0 +1,81 @@
+/******************************************************/
+/*                                                    */
+/*                 Left Panel Styles                  */
+/*                                                    */
+/******************************************************/
+
+.left_panel
+{
+    background: url("../images/left_background.jpg") center no-repeat;
+    background-size: contain;
+}
+
+.left_panel_inner
+{
+    background-color: rgba(103,58,183,.26);
+    height: 100%;
+    text-align: center;
+}
+
+/******************************************************/
+/*                                                    */
+/*                Right Panel Styles                  */
+/*                                                    */
+/******************************************************/
+
+.right_panel
+{
+    background-color: rgba(103,58,183,.16);
+    min-height: 95%;
+    text-align: center;
+}
+
+/******************************************************/
+/*                                                    */
+/*                Custom Page Styles                  */
+/*                                                    */
+/******************************************************/
+
+#nitc_logo
+{
+    margin-top: 160px;
+}
+
+
+/******************************************************/
+/*                                                    */
+/*                  All Page Styles                   */
+/*                                                    */
+/******************************************************/
+
+.heading-font
+{
+    font-family: 'Roboto', 'Helvetica', 'Arial', sans-serif;
+    line-height: 1;
+    color: rgb(103,58,183);
+    font-weight: 500;
+    font-size: 40px;
+    padding-top: 210px;
+}
+
+.heading-white-font
+{
+    color: #fff;
+    padding-top: 0;
+}
+
+.mdl-textfield
+{
+    margin-top: 15px;
+}
+
+.mdl-form-component
+{
+    margin-top: 15px;
+}
+
+.mdl-logo-image
+{
+    height: 45px;
+    width: 45px;
+}
